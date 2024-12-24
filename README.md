@@ -3,7 +3,7 @@ power BI Dashboard
 # Interactive Dashboard creation using Power Bi
 # Data Source:
 - [<a href="https://github.com/ivamcthor/Credit-Card-weekly-Report/blob/main/credit_card.csv">Dataset</a>]
-- [<a href="">Dataset</a>]
+- [<a href="https://github.com/ivamcthor/Credit-Card-weekly-Report/blob/main/customer.csv">Dataset</a>]
 
 ## Questions:
 -  At What percent Revenue increased on next weeek.
