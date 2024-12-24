@@ -2,6 +2,7 @@
 power BI Dashboard
 # Interactive Dashboard creation using Power Bi
 # Data Source:
+- [<a href="https://github.com/ivamcthor/Credit-Card-weekly-Report/blob/main/credit_card.csv">Dataset</a>]
 - [<a href="">Dataset</a>]
 
 ## Questions:
@@ -22,6 +23,8 @@ power BI Dashboard
 -  Add Action Filters for overall deep insights.
 -  Visualize the results in Power Bi. 
 ## Dashboard:
+![Screenshot (178)](https://github.com/user-attachments/assets/c760f089-1c95-4838-86d8-eebfbb26fbfd)
+![Screenshot (179)](https://github.com/user-attachments/assets/80415d89-4b63-4fd2-8e51-aa8c39b62fe1)
 
 ## Project Insights: 
 -  Week on Week (WoW) change: 
